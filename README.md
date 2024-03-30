@@ -9,8 +9,7 @@ mailing list.
 
 - [GitHub](https://github.com/pilona/)
 - [GitLab](https://gitlab.com/pilona/)
-- [StackOverflow developer story](https://stackoverflow.com/users/story/1292120)
-- **Long out of date** [Résumé](/resume/resume.html) - [PDF], [TXT]
+- **Long out of date** [Résumé][resume]
 - [LinkedIn](https://www.linkedin.com/in/alex-pilon-a9a976124)
 - I refuse to be on Facebook. I'm not spending time there.
     * I have Whatsapp if you absolutely insist, but I am not particularly
@@ -35,6 +34,7 @@ Please don't confuse me with:
 
 We're all in Ottawa **and** software development, but we're not the same.
 
+[resume]: https://alexpilon.ca/resumes/resume.pdf
 [opag]: https://gitter.im/ottawa-python "Gitter - Ottawa Python Authors Group"
 [l3go]: https://lists.linux-ottawa.org/sigs-l3go/listinfo.html "sigs-l3go list info"
 [com]: http://alexpilon.com "alexpilon .COM yes no HTTPs :-("
